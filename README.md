@@ -57,7 +57,7 @@ Complexity is a cost.
 ```sh
 git clone https://github.com/Voctl/rawm
 cd rawm
-make
+make rawm
 ```
 
 ## Why rawm?
