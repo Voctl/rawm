@@ -10,7 +10,6 @@ No subscriptions.
 No AI buttons glued onto every menu.
 
 Just editing text.
-
 ## Vision
 
 Modern editors keep getting larger.
